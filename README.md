@@ -5,10 +5,6 @@ Ses données seront consommées par une autre application (le Front), développ�
 
 ## Présentation
 
-En vidéo :
-
-[![Préparation du projet](https://img.youtube.com/vi/7lLjwkQUhhM/0.jpg)](https://www.youtube.com/watch?v=7lLjwkQUhhM)
-
 Ce projet est principalement à but pédagogique et demeure gratuit d'utilisation, de copie, de modification, etc. Il est également fourni en l'état, avec ses spécificités, ses bugs (même si on essaie de les éviter ;) ) et pour une utilisation précise.
 
 Vous pouvez bien entendu y participer, *via* des <abbr title="Pull Requests">PR</abbr>, commentaires (sur les PR, sur les vidéos, etc.), le forker (créer votre propre projet à partir de celui-ci, voir [le bouton `Fork` en haut du repository](https://github.com/Drakolab-yt/recettes-api)) ou autres moyens.
