@@ -17,6 +17,3 @@ L'ensemble des éléments de documentation sont rangés dans [le dossier docs/](
 
 ![](./docs/mcd.svg)
 
-## Les vidéos associées
-
-Toutes les vidéos sont regroupées dans [une playlist dédiée au projet, sur Youtube](https://www.youtube.com/watch?v=7lLjwkQUhhM&list=PLOOzTDicdX42xpYBIddIAUcoPDzRQc256&index=1)
